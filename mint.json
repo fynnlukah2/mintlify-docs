@@ -21,7 +21,8 @@
     {
       "group": "Commands",
       "pages": [
-        "commands/ReactionsRoles"
+        "commands/ReactionsRoles",
+        "commands/deleteRR"
       ]
     }
   ]
