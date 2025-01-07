@@ -24,6 +24,12 @@
         "commands/ReactionsRoles",
         "commands/deleteRR"
       ]
+    },
+    {
+      "group": "Discord",
+      "pages": [
+        "discord/dev-mode"
+      ]
     }
   ]
 }
