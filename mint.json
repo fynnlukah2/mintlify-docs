@@ -15,8 +15,8 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
-        "information"
+        "information/introduction",
+        "information/information"
       ]
     },
     {
