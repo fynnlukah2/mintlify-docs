@@ -15,18 +15,20 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction"
+        "introduction",
+        "information"
       ]
     },
     {
       "group": "Commands",
       "pages": [
         "commands/ReactionsRoles",
-        "commands/deleteRR"
+        "commands/deleteRR",
+        "commands/embed"
       ]
     },
     {
-      "group": "Discord",
+      "group": "Discord Info",
       "pages": [
         "discord/dev-mode"
       ]
