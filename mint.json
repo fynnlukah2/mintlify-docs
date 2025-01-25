@@ -25,7 +25,8 @@
       "pages": [
         "commands/ReactionsRoles",
         "commands/deleteRR",
-        "commands/embed"
+        "commands/embed",
+        "commands/set_welcome_message"
       ]
     },
     {
